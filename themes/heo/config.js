@@ -13,7 +13,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '万事胜意',
   HEO_HERO_TITLE_2: '平安喜乐。',
   HEO_HERO_TITLE_3: 'QQQUQ.COM',
-  HEO_HERO_TITLE_4: 'Hi There👋',
+  HEO_HERO_TITLE_4: 'Hi there👋',
   HEO_HERO_TITLE_5: '要来看看我的相册集吗',
   HEO_HERO_TITLE_LINK: '/photos',
 
