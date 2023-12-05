@@ -34,7 +34,7 @@ const CONFIG = {
     '🏃 拖延晚期纯懒狗',
     '🤖️ 数码科技爱好者'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/wfnie', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://github.com/f1shQAQ', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
