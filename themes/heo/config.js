@@ -14,7 +14,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '平安喜乐。',
   HEO_HERO_TITLE_3: 'QQQUQ.COM',
   HEO_HERO_TITLE_4: 'Hi there👋',
-  HEO_HERO_TITLE_5: '要来看看我的相册集吗',
+  HEO_HERO_TITLE_5: '要来看看我的照片墙吗',
   HEO_HERO_TITLE_LINK: 'https://photos.qqquq.com',
 
   // 英雄区显示三个置顶分类
