@@ -15,7 +15,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'QQQUQ.COM',
   HEO_HERO_TITLE_4: 'Hi there👋',
   HEO_HERO_TITLE_5: '要来看看我的照片墙吗',
-  HEO_HERO_TITLE_LINK: 'https://photos.qqquq.com',
+  HEO_HERO_TITLE_LINK: 'https://gallery.qqquq.com',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '记录生活', url: '/category/记录生活' },
